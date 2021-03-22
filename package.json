@@ -1,0 +1,53 @@
+{
+  "name": "material-ui-appbar-static-example-with-zindex-modified",
+  "version": "1.0.0",
+  "homepage": ".",
+  "description": "Modify zIndex in Appbar",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@fonticonpicker/react-fonticonpicker": "1.2.0",
+    "@material-ui/core": "4.5.0",
+    "@material-ui/icons": "4.4.3",
+    "@material-ui/lab": "4.0.0-alpha.57",
+    "@material-ui/styles": "4.5.0",
+    "chart.js": "2.9.4",
+    "color-scheme": "1.0.1",
+    "d3": "6.5.0",
+    "material-ui-color": "0.4.8",
+    "material-ui-color-picker": "3.5.1",
+    "mathjax-react": "1.0.6",
+    "mathjs": "9.2.0",
+    "ml-matrix": "6.6.0",
+    "prop-types": "15.7.2",
+    "react": "16.8.6",
+    "react-chartjs-2": "2.11.1",
+    "react-dom": "16.8.6",
+    "react-fa-icon-picker": "1.0.3",
+    "react-katex": "2.0.2",
+    "react-latex": "2.0.0",
+    "react-material-ui-icon-picker": "0.0.1",
+    "react-piano-component": "0.1.4",
+    "react-scripts": "3.0.1",
+    "react-sheet-music": "0.0.1",
+    "reactstrap": "8.9.0",
+    "recharts": "2.0.8",
+    "styled-components": "5.2.1",
+    "victory": "35.4.9"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
